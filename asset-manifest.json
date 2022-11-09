@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IvanBoichukk/marvel_starter.git/static/css/main.e4e6ec41.chunk.css",
+    "main.js": "/IvanBoichukk/marvel_starter.git/static/js/main.a4c21fdf.chunk.js",
+    "main.js.map": "/IvanBoichukk/marvel_starter.git/static/js/main.a4c21fdf.chunk.js.map",
+    "runtime-main.js": "/IvanBoichukk/marvel_starter.git/static/js/runtime-main.e433b4c1.js",
+    "runtime-main.js.map": "/IvanBoichukk/marvel_starter.git/static/js/runtime-main.e433b4c1.js.map",
+    "static/js/2.8c6e57a3.chunk.js": "/IvanBoichukk/marvel_starter.git/static/js/2.8c6e57a3.chunk.js",
+    "static/js/2.8c6e57a3.chunk.js.map": "/IvanBoichukk/marvel_starter.git/static/js/2.8c6e57a3.chunk.js.map",
+    "index.html": "/IvanBoichukk/marvel_starter.git/index.html",
+    "static/css/main.e4e6ec41.chunk.css.map": "/IvanBoichukk/marvel_starter.git/static/css/main.e4e6ec41.chunk.css.map",
+    "static/js/2.8c6e57a3.chunk.js.LICENSE.txt": "/IvanBoichukk/marvel_starter.git/static/js/2.8c6e57a3.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/IvanBoichukk/marvel_starter.git/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/IvanBoichukk/marvel_starter.git/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/IvanBoichukk/marvel_starter.git/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e433b4c1.js",
+    "static/js/2.8c6e57a3.chunk.js",
+    "static/css/main.e4e6ec41.chunk.css",
+    "static/js/main.a4c21fdf.chunk.js"
+  ]
+}
